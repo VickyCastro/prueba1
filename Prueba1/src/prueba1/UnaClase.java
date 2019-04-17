@@ -11,4 +11,7 @@ package prueba1;
  */
 public class UnaClase {
     
+    public void unMetodo(){
+        System.out.println("Hola!");
+    }
 }
