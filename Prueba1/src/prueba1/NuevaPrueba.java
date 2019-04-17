@@ -8,7 +8,5 @@ package prueba1;
 /**
  *
  * @author programador
- */
-public class NuevaPrueba {
-    
+ */   
 }
