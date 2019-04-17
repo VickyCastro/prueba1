@@ -17,4 +17,7 @@ public class UnaClase {
     public void otroMetodo(){
         System.out.println("vale sos tonta");
     }
+    public void tercerMetodo(){
+        System.out.println("tengo sueño");
+    }
 }
