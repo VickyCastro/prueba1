@@ -20,4 +20,8 @@ public class UnaClase {
     public void tercerMetodo(){
         System.out.println("tengo sueño");
     }
+    public void cuartoMetodo(){
+        System.out.println("quieroUnaMila");
+    }
+    
 }
